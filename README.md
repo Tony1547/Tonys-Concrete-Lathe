@@ -24,6 +24,8 @@ Something I initially struggled with was finding a way to connect all the parts 
 
 For the reason that I built this project, I want to have better manufacturing capabilities at home, and having a machine that allows me to focus on one type of part (being conical and cylindrical parts) I think will allow me to have better projects in the future.
 
+Journal: https://fallout.hackclub.com/projects/1831
+
 <img width="4196" height="2547" alt="image" src="https://github.com/user-attachments/assets/7c513a07-82e7-42f4-97a8-fcfc64e2aaea" />
 
 # Assembly

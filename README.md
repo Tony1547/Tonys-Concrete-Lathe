@@ -1,6 +1,9 @@
 # Tonys-Concrete-Lathe #
 Lathe but 3d prints &amp; concrete
 
+<img width="2000" height="2833" alt="image" src="https://github.com/user-attachments/assets/9ed93a58-e7d1-47ed-97df-24b3463cba9b" />
+
+
 Special thanks Mark Harris to for creating this open source design which I based my H-brdge motor driver off of, heres the link to his blog of his design and his git hub page:
 
 - https://resources.altium.com/p/100a-12v-h-bridge-project

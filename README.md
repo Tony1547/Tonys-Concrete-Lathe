@@ -45,6 +45,8 @@ Currently the lathe is run by either two buttons on the back for foward/revevrse
 
 <img width="1257" height="745" alt="image" src="https://github.com/user-attachments/assets/248ffb37-07c5-41ab-b53c-30247e072bfd" />
 
+Onshape: https://cad.onshape.com/documents/8fec9f06f8e21e4e1cabcead/w/11b83efad18e13bc0ea2df61/e/2ea9e03e0bad05dbdf986923?page=2&email=ah404751%40g.risd.org&renderMode=0&uiState=6a30d3e5ff79be115d0b7c52
+
 # BOM
 
 

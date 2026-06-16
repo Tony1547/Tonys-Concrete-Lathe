@@ -19,7 +19,7 @@ This is the lathe I have been desingning for the past 2-ish months, I was initia
 
 Something I initially struggled with was finding a way to connect all the parts toghether, in my initial design I tried to make each 3d printed part interlock with dove-tails but that soon became much more problematic than was needed. I solved this problem with allowing an open hole from part to part on the inside to connect all parts into this chamber that I hope keeps everything together once the concrete dries. 
 
-For the reason that I built this project, I want to have better manufacturing capabilities at home, and having a machine that allows me to focus on one type of part (being conical and cylinerical parts) I think will allow me to have better projects in the future.
+For the reason that I built this project, I want to have better manufacturing capabilities at home, and having a machine that allows me to focus on one type of part (being conical and cylindrical parts) I think will allow me to have better projects in the future.
 
 <img width="4196" height="2547" alt="image" src="https://github.com/user-attachments/assets/7c513a07-82e7-42f4-97a8-fcfc64e2aaea" />
 

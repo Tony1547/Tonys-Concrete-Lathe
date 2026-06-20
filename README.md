@@ -46,6 +46,7 @@ Remember when using the lathe, the part should be spining to where it's coming d
 
 Currently the lathe is run by either two buttons on the back for foward/revevrse but the option for external control was also given, so with an off board micro controller you could be very exact with how you want this thing to spin. (I plan to use an off board MCU when possible)
 
+<img width="4196" height="2547" alt="image" src="https://github.com/user-attachments/assets/25858a56-5c57-4161-a9b4-f67b278b3bd6" />
 
 
 <img width="1257" height="745" alt="image" src="https://github.com/user-attachments/assets/248ffb37-07c5-41ab-b53c-30247e072bfd" />

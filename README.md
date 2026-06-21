@@ -111,3 +111,18 @@ Google Sheet: https://docs.google.com/spreadsheets/d/1Rf3SECQ2E7oCPYBzGCeOMEVJCD
 
 
 
+
+
+
+
+
+
+
+
+# PCB Schematic
+
+<img width="1718" height="870" alt="image" src="https://github.com/user-attachments/assets/6c1d3d66-ca06-4615-8c25-fd153cd0bb75" />
+<img width="1861" height="885" alt="image" src="https://github.com/user-attachments/assets/93c6f288-bb4c-4247-826e-cc78f4f62462" />
+<img width="1861" height="862" alt="image" src="https://github.com/user-attachments/assets/27d16904-455f-40e2-b84f-4b2e05209007" />
+
+
